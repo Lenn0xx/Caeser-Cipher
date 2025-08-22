@@ -1,7 +1,6 @@
 # 🔐 Caesar Cipher Encoder & Decoder
 
-A simple Python program that lets you **encode** and **decode messages** using the **Caesar Cipher** encryption method.  
-Perfect for beginners learning about cryptography and string manipulation in Python.
+A simple Python program that lets you **encode** and **decode messages** using the **Caesar Cipher** encryption method.
 
 ---
 
